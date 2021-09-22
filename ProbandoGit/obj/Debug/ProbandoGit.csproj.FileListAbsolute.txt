@@ -1,0 +1,10 @@
+C:\Users\USER-PC\source\Repositorio_proyectos_Git\Prueba1\Prueba_Con_Git_Solucion\ProbandoGit\bin\Debug\ProbandoGit.exe.config
+C:\Users\USER-PC\source\Repositorio_proyectos_Git\Prueba1\Prueba_Con_Git_Solucion\ProbandoGit\bin\Debug\ProbandoGit.exe
+C:\Users\USER-PC\source\Repositorio_proyectos_Git\Prueba1\Prueba_Con_Git_Solucion\ProbandoGit\bin\Debug\ProbandoGit.pdb
+C:\Users\USER-PC\source\Repositorio_proyectos_Git\Prueba1\Prueba_Con_Git_Solucion\ProbandoGit\obj\Debug\ProbandoGit.csprojAssemblyReference.cache
+C:\Users\USER-PC\source\Repositorio_proyectos_Git\Prueba1\Prueba_Con_Git_Solucion\ProbandoGit\obj\Debug\ProbandoGit.Properties.Resources.resources
+C:\Users\USER-PC\source\Repositorio_proyectos_Git\Prueba1\Prueba_Con_Git_Solucion\ProbandoGit\obj\Debug\ProbandoGit.csproj.GenerateResource.cache
+C:\Users\USER-PC\source\Repositorio_proyectos_Git\Prueba1\Prueba_Con_Git_Solucion\ProbandoGit\obj\Debug\ProbandoGit.csproj.CoreCompileInputs.cache
+C:\Users\USER-PC\source\Repositorio_proyectos_Git\Prueba1\Prueba_Con_Git_Solucion\ProbandoGit\obj\Debug\ProbandoGit.exe
+C:\Users\USER-PC\source\Repositorio_proyectos_Git\Prueba1\Prueba_Con_Git_Solucion\ProbandoGit\obj\Debug\ProbandoGit.pdb
+C:\Users\USER-PC\source\Repositorio_proyectos_Git\Prueba1\Prueba_Con_Git_Solucion\ProbandoGit\obj\Debug\ProbandoGit.Form1.resources
